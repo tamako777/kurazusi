@@ -1,0 +1,18 @@
+h1{
+    color:black;
+    margin-left: 29rem;
+}
+
+h2{
+    margin-left: 8rem;
+}
+h2.a{
+    padding-left: 8px;
+    border-left: 8px solid #ffcc00;
+    border-color: #ffcc00;
+    margin-left: 8rem;
+}
+
+p{
+    margin-left: 10rem;
+}
